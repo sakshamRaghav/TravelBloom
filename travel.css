@@ -148,9 +148,10 @@ body{
     width: 50vw;
     color: rgba(212, 19, 103, 0.903);
     font-size: larger;
-    overflow: scroll;
-    height: 80%;
+    overflow-x: scroll;
+    height: 100%;
 }   
+
 
 
 
