@@ -106,7 +106,7 @@ input[type="text"] {
 body{
   margin: 0;
   padding: 0;
-  background-image: url('image/travel.jpg') ;
+  background-image: url('travel.jpg') ;
   background-size: cover;
   background-repeat: no-repeat ;
   background-position: center;
@@ -149,3 +149,4 @@ body{
     color: rgba(212, 19, 103, 0.903);
     font-size: larger;
 }   
+
