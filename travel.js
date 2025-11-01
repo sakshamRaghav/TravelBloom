@@ -26,7 +26,7 @@ function showLocation() {
       name: "Manali",
       type: "mountain",
       info: "Snow-capped peaks and scenic valleys.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Manali_town_2004.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leh-Manali_Highway%2C_Himachal_Pradesh%2C_India.jpg/640px-Leh-Manali_Highway%2C_Himachal_Pradesh%2C_India.jpg"
     },
     {
       name: "Leh-Ladakh",
@@ -82,3 +82,4 @@ function clearInput() {
   document.getElementById("text").value = "";
   document.getElementById("result").innerHTML = "";
 }
+
