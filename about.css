@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #e0f7fa, #fff);
+  color: #333;
+}
+
+.bar nav {
+  display: flex;
+  align-items: center;
+  /*justify-content: space-around;*/
+  background: #0077b6;
+  color: white;
+  padding: 10px 30px;
+}
+
+
+.navbar img.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.bar nav h2 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.bar nav ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin-left: 300px;
+}
+
+.bar nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.bar nav ul li a:hover,
+.bar nav ul li a.active {
+  text-decoration: underline;
+}
+
+
+.about-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.about-container section {
+  margin-bottom: 40px;
+}
+
+.about-container h1, h2 {
+  color: #0077b6;
+}
+
+.intro p, .mission p, .vision p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.team-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.member {
+  text-align: center;
+  margin: 15px;
+}
+
+.contact {
+  text-align: center;
+  background: #e3f2fd;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #0077b6;
+  color: white;
+  margin-top: 20px;
+}
