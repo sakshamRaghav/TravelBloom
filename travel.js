@@ -14,13 +14,13 @@ function showLocation() {
       name: "Goa",
       type: "beach",
       info: "Golden beaches, palm trees, and fun nightlife!",
-      image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Baga_Beach_Goa.jpg"
+      image: "https://media.istockphoto.com/id/535168027/photo/india-goa-palolem-beach.jpg?s=612x612&w=0&k=20&c=iGV1Ue0Efj87dQirWnUpZVG1dNobUjfVvMGdKHTJ7Qg="
     },
     {
       name: "Andaman Islands",
       type: "beach",
       info: "Tropical paradise with clear blue waters.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Andaman_Beach.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Havelock_Island%2C_Sandy_lagoon%2C_Andaman_Islands.jpg/640px-Havelock_Island%2C_Sandy_lagoon%2C_Andaman_Islands.jpg"
     },
     {
       name: "Manali",
@@ -32,25 +32,25 @@ function showLocation() {
       name: "Leh-Ladakh",
       type: "mountain",
       info: "Adventure destination with breathtaking views.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ladakh_valley.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Moonscape%2C_Mountains%2C_Lamayuru%2C_Ladakh%2C_India.jpg/640px-Moonscape%2C_Mountains%2C_Lamayuru%2C_Ladakh%2C_India.jpg"
     },
     {
       name: "Jaipur",
       type: "city",
       info: "The Pink City known for forts and rich culture.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hawa_Mahal_in_Jaipur_2011.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jaipur_03-2016_02_Amber_Fort.jpg/640px-Jaipur_03-2016_02_Amber_Fort.jpg"
     },
     {
       name: "Rishikesh",
       type: "river",
       info: "Peaceful town on the Ganges, ideal for rafting and yoga.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Rishikesh_laxman_jhula.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sunset_-_Lakshman_Jhula.jpg/640px-Sunset_-_Lakshman_Jhula.jpg"
     },
     {
       name: "Kerala Backwaters",
       type: "lake",
       info: "Calm lagoons surrounded by lush greenery.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Backwaters_in_Kerala.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kerala_backwaters%2C_Canal%2C_Palm_trees%2C_India.jpg/640px-Kerala_backwaters%2C_Canal%2C_Palm_trees%2C_India.jpg"
     }
   ];
 
@@ -82,4 +82,5 @@ function clearInput() {
   document.getElementById("text").value = "";
   document.getElementById("result").innerHTML = "";
 }
+
 
